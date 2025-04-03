@@ -1,3 +1,6 @@
+**Velocyto Processing Workflow**
+
+
 This repository contains two scripts used for processing single-cell RNA sequencing data with Velocyto:
 
 velocyto.sh: A Bash script that reads input sample details from a CSV file and runs Velocyto for each sample.
